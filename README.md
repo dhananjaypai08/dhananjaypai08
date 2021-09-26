@@ -7,8 +7,8 @@
 ```javascript
 const dhananjay = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C++", "C"],
-    frameworks: ["Django", "React"]
+    code: ["Javascript", "Python", "C++", "C","Java"],
+    frameworks: ["Django"]
     askMeAbout: ["web dev", "tech", "app dev", "sports"],
 };
 ```
