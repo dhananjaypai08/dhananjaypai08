@@ -8,7 +8,7 @@
 const dhananjay = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C++", "C","Java"],
-    frameworks: ["Django"]
+    frameworks: ["Flask", "Django"]
     askMeAbout: ["web dev", "tech", "app dev", "sports"],
 };
 ```
