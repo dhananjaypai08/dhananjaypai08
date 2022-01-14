@@ -34,28 +34,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhananjaypai08&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-##  GitHub Stats
-<a href="https://github.com/dhananjaypai08/dhananjaypai08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaypai08&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dhananjay's GitHub Stats" />
-</a>
-<a href="https://github.com/dhananjaypai08/dhananjaypai08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjaypai08&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dhananjay's GitHub Stats" />
-</a> -->
-
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/dhananjaypai08/WeatherCheck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhananjaypai08&repo=WeatherCheck&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="WeatherCheck" />
-</a>
-
-<a href="https://github.com/dhananjaypai08/Login-Page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhananjaypai08&repo=Login-Page&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Login-Page" />
-</a>
+---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting with different people</b> so if you want to say <b>hi!, I'll be happy to connect! :) </b> 😊</em>
 <br>
