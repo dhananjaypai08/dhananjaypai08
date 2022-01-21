@@ -36,6 +36,13 @@ me.say_hi()
 
 ---
 
+## Github Stats
+<p align="center" display="flex">
+  <img height= "160px" src="https://github-readme-stats.vercel.app/api?username=dhananjaypai08&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
+  <img height= "160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaypai08&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
+</p>
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting with different people</b> so if you want to say <b>hi!, I'll be happy to connect! :) </b> 😊</em>
 <br>
 <img src="https://media.tenor.com/images/53676346a29801bdbf00c768004645d8/tenor.gif" width='200'>
