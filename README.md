@@ -37,6 +37,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=6aa6f8)
 
 ---
 
