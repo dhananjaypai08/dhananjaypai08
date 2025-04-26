@@ -26,7 +26,7 @@ me.say_hi()
 ## Github Stats
 <p align="center" display="flex">
   <img height= "160px" src="https://github-readme-stats.vercel.app/api?username=dhananjaypai08&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
-  <img height= "160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaypai08&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
+  <img height= "160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaypai08&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=html,css,typescript" />
 </p>
 
 
