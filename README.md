@@ -4,8 +4,7 @@
 
 ## About
 
-I like to build cool struff and I develop with **Rust**, **JavaScript**, **Solidity**, **Python** and **Go**, leveraging tools like **Docker**, **Redis**
-**Kubernetes**, and cloud platforms to create robust, efficient systems.
+I like to build cool struff around AI Agents, Zero knowledge proofs, Decentralized Finance and Games.
 
 Active open source contributor to YC-backed gauge-sh/tach, Secret Network's Python SDK, and Vector-Chain's blockchain for digital game licensing.
 
@@ -24,6 +23,7 @@ Active open source contributor to YC-backed gauge-sh/tach, Secret Network's Pyth
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=blue)
 
 ### Infra
 
