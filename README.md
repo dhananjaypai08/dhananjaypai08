@@ -1,6 +1,6 @@
 # Dhananjay Pai
 
-> Software Engineer, Blockchain and Cryptography Enthusiast
+> Software Engineer, Web3 Enthusiast
 
 ## About
 
