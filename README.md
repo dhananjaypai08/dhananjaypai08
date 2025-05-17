@@ -12,7 +12,7 @@ Active open source contributor to YC-backed gauge-sh/tach, Secret Network's Pyth
 
 <p align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dhananjaypai08&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaypai08&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=html,css,typescript"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaypai08&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=html,css"/>
 </p>
 
 ## Tech
